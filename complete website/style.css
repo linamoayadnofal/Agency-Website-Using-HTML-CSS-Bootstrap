@@ -103,6 +103,26 @@ navbar-brand img{
     margin-right: auto;
     display: block;
     transform:translateY(63px);
-        
-        
+              
+}
+.title::after
+{
+    content:'';
+    background: #7b1798;
+    height: 10px;
+    width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    display: block;
+    transform:translateY(8px);          
+}
+#services .btn-primary
+{
+    box-shadow:none;
+    border: none;
+    padding: 8px 25px;
+    border-radius:20px ;
+    background-image: linear-gradient(to right ,#02042D, #190624 ,#5f1782);
+    
 }
