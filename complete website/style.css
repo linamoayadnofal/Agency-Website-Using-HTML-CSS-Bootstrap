@@ -144,3 +144,29 @@ navbar-brand img{
 #about-us ul{
     margin-left:20px;
 }
+/*----------------------------testimonials section----------------------------------------*/
+#testimonials{
+    margin: 100px 0;
+}
+.testimonials{
+    border-left: 4px solid #7b1798;
+    margin-top: 50px;
+    margin-bottom: 50px;  
+}
+.testimonials img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    margin: 0 10px; 
+}
+.user-details
+{
+    display:inline-block;
+    font font-size: 12px;
+}
+/*----------------------------social media section----------------------------------------*/
+<section id="social-media">
+<div class="container">
+<div class="row">
+
+</section>
