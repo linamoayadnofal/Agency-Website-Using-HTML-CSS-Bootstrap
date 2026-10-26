@@ -165,8 +165,21 @@ navbar-brand img{
     font font-size: 12px;
 }
 /*----------------------------social media section----------------------------------------*/
-<section id="social-media">
-<div class="container">
-<div class="row">
-
-</section>
+#social-media
+{
+    background-color: #f8f9fa;
+    padding: 100px 0;   
+}
+#social-media p{
+    margin-bottom:30px;
+    font-size:36px;
+    font-weight: 600;      
+}
+.social-icons img
+{
+    width: 60px;
+    transition: 0.5s;
+}
+.social-icons a:hover img{
+    transform: translateY(-10px);
+}
