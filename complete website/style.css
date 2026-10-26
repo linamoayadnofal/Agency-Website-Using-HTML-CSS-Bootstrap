@@ -126,3 +126,21 @@ navbar-brand img{
     background-image: linear-gradient(to right ,#02042D, #190624 ,#5f1782);
     
 }
+/*----------------------------about-us section----------------------------------------*/
+#about-us{
+    
+    background: #f8f9fa;
+    padding-bottom:50px ;
+    padding-top:50px;
+}
+.about-title{
+    font-size:40px;
+    font font-weight: 600;
+    margin-top: 8%;
+}
+#about-us ul li{
+    margin: 10px 0;
+}
+#about-us ul{
+    margin-left:20px;
+}
