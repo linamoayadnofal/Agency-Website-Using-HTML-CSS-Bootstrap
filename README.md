@@ -40,6 +40,7 @@ Digital-Agency/
 │
 ├── index.html
 ├── style.css
+ smooth-scroll.js  
 ├── images/
 └── README.md
 ```
